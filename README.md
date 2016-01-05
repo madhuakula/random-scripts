@@ -19,3 +19,9 @@ sh google-bug-hunter.sh
 
 *Note: You can change the sequence number as per your usecase*
 ```
+
+- **ip.sh** :
+
+```
+ip.sh prints out IP addresses with interface name
+```
