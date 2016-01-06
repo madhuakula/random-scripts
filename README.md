@@ -23,5 +23,5 @@ sh google-bug-hunter.sh
 - **ip.sh** :
 
 ```
-ip.sh prints out IP addresses with interface name
+ip.sh prints out IP addresses with interface name. It works for Mac and Linux systems
 ```
