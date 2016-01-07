@@ -25,3 +25,8 @@ sh google-bug-hunter.sh
 ```
 ip.sh prints out IP addresses with interface name. It works for Mac and Linux systems
 ```
+- **kibana4.sh** :
+
+```
+kibana4.sh is a basic kibana as a service script and replace your kibana path at "KIBANA_HOME".
+```
