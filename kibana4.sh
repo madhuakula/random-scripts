@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author : Madhu Akula (http://www.madhuakula.com)
-# Description: Kibana Start Stop Restart
+# Description: Kibana Start / Stop / Restart
 # chkconfig: 234 20 80
 # Replace "KIBANA_HOME" with your kibana location
 KIBANA_HOME=/opt/kibana-4.0.1-linux-x64/bin
