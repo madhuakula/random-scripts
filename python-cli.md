@@ -17,3 +17,7 @@
   - Parse the JSON data pretty format
     
     `python -m json.tool testfile.json`
+
+- **Run OS commands**
+
+   `python -c 'import os; os.system("command here")'`
