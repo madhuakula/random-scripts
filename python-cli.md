@@ -21,3 +21,7 @@
 - **Run OS commands**
 
    `python -c 'import os; os.system("command here")'`
+
+- **Python Bash shell**
+
+   `python -c 'import pty; pty.spawn("/bin/bash")'`
