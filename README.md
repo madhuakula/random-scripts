@@ -41,3 +41,9 @@ This is a simple URL fuzzer and check the response code, If it is 200 then the R
 ```
 This file contains all useful python single line scripts
 ```
+
+- **[bash-cli.md](bash-cli.md)** :
+
+```
+This file contains all useful bash single line scripts
+```
