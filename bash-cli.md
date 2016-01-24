@@ -11,3 +11,11 @@
 - While loop for passing file and read line by line
 
   `while read line; do cat $line; done < file.txt`
+  
+- Large files in current directory
+  
+  `find ./ -xdev -type f -size +1G`
+  
+  ```
+  you can change location and size of the file by tweaking the command
+  ```
