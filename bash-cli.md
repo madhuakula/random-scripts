@@ -19,3 +19,7 @@
   ```
   you can change location and size of the file by tweaking the command
   ```
+  - Get IP addresses from a file using the `grep`
+  
+  `grep -E -o '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}`
+  
