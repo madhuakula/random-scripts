@@ -3,6 +3,17 @@ some useful scripts
 
 ---
 
+- **[python-cli.md](python-cli.md)** :
+
+```
+This file contains all useful python single line scripts
+```
+
+- **[bash-cli.md](bash-cli.md)** :
+
+```
+This file contains all useful bash single line scripts
+```
 - **[ssh.py](ssh.py)** :
 
 ```
@@ -34,16 +45,4 @@ kibana4.sh is a basic kibana as a service script and replace your kibana path at
 
 ```
 This is a simple URL fuzzer and check the response code, If it is 200 then the Report is publicly disclosed and it's avilable in the "hackeroneurls.txt"
-```
-
-- **[python-cli.md](python-cli.md)** :
-
-```
-This file contains all useful python single line scripts
-```
-
-- **[bash-cli.md](bash-cli.md)** :
-
-```
-This file contains all useful bash single line scripts
 ```
