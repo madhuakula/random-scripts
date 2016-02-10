@@ -27,8 +27,10 @@
 
   `mail -s "Subject" test@gmail.com`
   
-  Ex :- `cat ips.txt | mail -s "IP Addresses" google@gmail.com`
+  ```
+  Ex :- cat ips.txt | mail -s "IP Addresses" google@gmail.com
   
-        `echo Testing | mail -s "Test Email" google@gmail.com`
+        echo Testing | mail -s "Test Email" google@gmail.com
+  ```
   
   
