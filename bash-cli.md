@@ -19,7 +19,16 @@
   ```
   you can change location and size of the file by tweaking the command
   ```
-  - Get IP addresses from a file using the `grep`
+- Get IP addresses from a file using the `grep`
   
   `grep -E -o '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}`
+
+- Send Emails from terminal
+
+  `mail -s "Subject" test@gmail.com`
+  
+  Ex :- `cat ips.txt | mail -s "IP Addresses" google@gmail.com`
+  
+        `echo Testing | mail -s "Test Email" google@gmail.com`
+  
   
