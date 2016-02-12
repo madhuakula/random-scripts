@@ -32,5 +32,7 @@
   
         echo Testing | mail -s "Test Email" google@gmail.com
   ```
-  
+- Pass the output of the command to another command using `xargs`
+
+  `whoami | xargs finger`
   
