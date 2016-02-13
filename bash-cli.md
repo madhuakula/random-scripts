@@ -2,6 +2,8 @@
 
 ---
 
+- Basic command line references - [http://www.pixelbeat.org/cmdline.html](http://www.pixelbeat.org/cmdline.html)
+
 - SSH into a box with hidden mode
 
   `ssh user@ipaddress -T shell` 
