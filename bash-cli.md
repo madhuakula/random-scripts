@@ -38,3 +38,7 @@
 
   `whoami | xargs finger`
   
+- Execute and print the command output in VI editor
+
+   `:r!whoami`
+
