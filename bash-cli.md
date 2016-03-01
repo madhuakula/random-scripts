@@ -23,7 +23,7 @@
   ```
 - Get IP addresses from a file using the `grep`
   
-  `grep -E -o '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}`
+  `grep -E -o '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}'`
 
 - Send Emails from terminal
 
